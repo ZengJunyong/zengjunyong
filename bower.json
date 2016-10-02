@@ -1,0 +1,22 @@
+{
+  "name": "fleekimage",
+  "authors": [
+    "yong <zengjunyong@gmail.com>"
+  ],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "angular": "1.4.7"
+  },
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
