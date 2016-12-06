@@ -1,6 +1,6 @@
 hexo generate
-mv public/* docs
-rm -rf public
+rm -rf docs
+mv public docs
 git rm docs/*
 git add docs/*
 git commit -m "blog update"
